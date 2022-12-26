@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T10:11:23 IST" name="Default suite" finished-at="2022-12-26T10:11:32 IST" duration-ms="9130">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T10:11:23 IST" name="Default test" finished-at="2022-12-26T10:11:32 IST" duration-ms="9130">
+      <class name="Screenshots.Capturescreenshots">
+        <test-method signature="captureAsFile()[pri:1, instance:Screenshots.Capturescreenshots@729d991e]" started-at="2022-12-26T10:11:23 IST" name="captureAsFile" finished-at="2022-12-26T10:11:27 IST" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureAsFile -->
+        <test-method signature="captureAsBytes()[pri:2, instance:Screenshots.Capturescreenshots@729d991e]" started-at="2022-12-26T10:11:27 IST" name="captureAsBytes" finished-at="2022-12-26T10:11:29 IST" duration-ms="2621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureAsBytes -->
+        <test-method signature="captureAsBase64()[pri:3, instance:Screenshots.Capturescreenshots@729d991e]" started-at="2022-12-26T10:11:29 IST" name="captureAsBase64" finished-at="2022-12-26T10:11:32 IST" duration-ms="2816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureAsBase64 -->
+      </class> <!-- Screenshots.Capturescreenshots -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
